@@ -1,0 +1,298 @@
+10/08/2022 02:04:57 PM: INFO : ====== WebDriver manager ======
+10/08/2022 02:04:58 PM: INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+10/08/2022 02:04:59 PM: INFO : Driver [C:\Users\Gokul A\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+10/08/2022 02:05:01 PM: INFO : ******************** Test_002_Login_DataDriven ***********************
+10/08/2022 02:05:01 PM: INFO : ******************** Verifying the login Data Driven test ***********************
+10/08/2022 02:05:05 PM: INFO : ******************** Login Passed - Correct user credentials ***********************
+10/08/2022 02:05:08 PM: INFO : ******************** Login Failed - Incorrect user credentials ***********************
+10/08/2022 02:05:08 PM: INFO : ******************** Login Data Driven test is passed ***********************
+10/08/2022 02:05:08 PM: INFO : ******************** Completed Test_002_Login_DataDriven testcase ***********************
+10/08/2022 02:30:03 PM: INFO : ====== WebDriver manager ======
+10/08/2022 02:30:04 PM: INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+10/08/2022 02:30:05 PM: INFO : Driver [C:\Users\Gokul A\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+10/08/2022 02:30:07 PM: INFO : ******************** Test_003_BookAppointment ***********************
+10/08/2022 02:30:07 PM: INFO : ******************** Booking an appointment ***********************
+10/08/2022 02:31:30 PM: INFO : ====== WebDriver manager ======
+10/08/2022 02:31:32 PM: INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+10/08/2022 02:31:33 PM: INFO : Driver [C:\Users\Gokul A\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+10/08/2022 02:31:34 PM: INFO : ******************** Test_003_BookAppointment ***********************
+10/08/2022 02:31:34 PM: INFO : ******************** Booking an appointment ***********************
+10/08/2022 02:36:24 PM: INFO : ====== WebDriver manager ======
+10/08/2022 02:36:25 PM: INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+10/08/2022 02:36:27 PM: INFO : Driver [C:\Users\Gokul A\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+10/08/2022 02:36:30 PM: INFO : ******************** Test_003_BookAppointment ***********************
+10/08/2022 02:36:30 PM: INFO : ******************** Booking an appointment ***********************
+10/08/2022 02:42:07 PM: INFO : ====== WebDriver manager ======
+10/08/2022 02:42:08 PM: INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+10/08/2022 02:42:09 PM: INFO : Driver [C:\Users\Gokul A\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+10/08/2022 02:42:11 PM: INFO : ******************** Test_003_BookAppointment ***********************
+10/08/2022 02:42:11 PM: INFO : ******************** Booking an appointment ***********************
+10/08/2022 02:42:24 PM: ERROR : ******************** Unable to book an appointment ***********************
+10/08/2022 02:43:28 PM: INFO : ====== WebDriver manager ======
+10/08/2022 02:43:29 PM: INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+10/08/2022 02:43:30 PM: INFO : Driver [C:\Users\Gokul A\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+10/08/2022 02:43:33 PM: INFO : ******************** Test_003_BookAppointment ***********************
+10/08/2022 02:43:33 PM: INFO : ******************** Booking an appointment ***********************
+10/08/2022 02:43:44 PM: ERROR : ******************** Unable to book an appointment ***********************
+10/08/2022 02:45:23 PM: INFO : ====== WebDriver manager ======
+10/08/2022 02:45:24 PM: INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+10/08/2022 02:45:25 PM: INFO : Driver [C:\Users\Gokul A\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+10/08/2022 02:45:26 PM: INFO : ******************** Test_002_Login_DataDriven ***********************
+10/08/2022 02:45:26 PM: INFO : ******************** Verifying the login Data Driven test ***********************
+10/08/2022 02:45:30 PM: INFO : ******************** Login Passed - Correct user credentials ***********************
+10/08/2022 02:45:32 PM: INFO : ******************** Login Failed - Incorrect user credentials ***********************
+10/08/2022 02:45:32 PM: INFO : ******************** Login Data Driven test is passed ***********************
+10/08/2022 02:45:32 PM: INFO : ******************** Completed Test_002_Login_DataDriven testcase ***********************
+10/08/2022 02:46:00 PM: INFO : ====== WebDriver manager ======
+10/08/2022 02:46:01 PM: INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+10/08/2022 02:46:02 PM: INFO : Driver [C:\Users\Gokul A\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+10/08/2022 02:46:04 PM: INFO : ******************** Test_003_BookAppointment ***********************
+10/08/2022 02:46:04 PM: INFO : ******************** Booking an appointment ***********************
+10/08/2022 02:46:14 PM: INFO : ******************** Appointment booked successfully ***********************
+10/08/2022 02:52:44 PM: INFO : ====== WebDriver manager ======
+10/08/2022 02:52:45 PM: INFO : Get LATEST geckodriver version for 105.0 firefox
+10/08/2022 02:52:46 PM: INFO : Getting latest mozilla release info for v0.31.0
+10/08/2022 02:52:46 PM: INFO : About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.31.0/geckodriver-v0.31.0-win64.zip
+10/08/2022 02:52:48 PM: INFO : Driver has been saved in cache [C:\Users\Gokul A\.wdm\drivers\geckodriver\win64\0.31]
+10/08/2022 02:52:51 PM: INFO : ====== WebDriver manager ======
+10/08/2022 02:52:52 PM: INFO : Get LATEST geckodriver version for 105.0 firefox
+10/08/2022 02:52:52 PM: INFO : Driver [C:\Users\Gokul A\.wdm\drivers\geckodriver\win64\0.31\geckodriver.exe] found in cache
+10/08/2022 02:52:59 PM: INFO : ******************** Test_001_Login ***********************
+10/08/2022 02:52:59 PM: INFO : ******************** Verifying the Homepage title ***********************
+10/08/2022 02:53:03 PM: ERROR : ******************** Homepage title test is failed ***********************
+10/08/2022 02:53:04 PM: INFO : ====== WebDriver manager ======
+10/08/2022 02:53:06 PM: INFO : Get LATEST geckodriver version for 105.0 firefox
+10/08/2022 02:53:07 PM: INFO : Driver [C:\Users\Gokul A\.wdm\drivers\geckodriver\win64\0.31\geckodriver.exe] found in cache
+10/08/2022 02:53:14 PM: INFO : ******************** Verifying the login test ***********************
+10/08/2022 02:53:17 PM: INFO : ******************** Login test is passed ***********************
+10/08/2022 02:53:18 PM: INFO : ******************** Completed Test_001_Login testcase ***********************
+10/08/2022 02:53:18 PM: INFO : ====== WebDriver manager ======
+10/08/2022 02:53:18 PM: INFO : Get LATEST geckodriver version for 105.0 firefox
+10/08/2022 02:53:19 PM: INFO : Driver [C:\Users\Gokul A\.wdm\drivers\geckodriver\win64\0.31\geckodriver.exe] found in cache
+10/08/2022 02:53:25 PM: INFO : ******************** Test_002_Login_DataDriven ***********************
+10/08/2022 02:53:25 PM: INFO : ******************** Verifying the login Data Driven test ***********************
+10/08/2022 02:53:28 PM: INFO : ******************** Login Passed - Correct user credentials ***********************
+10/08/2022 02:53:30 PM: INFO : ******************** Login Failed - Incorrect user credentials ***********************
+10/08/2022 02:53:30 PM: INFO : ******************** Login Data Driven test is passed ***********************
+10/08/2022 02:53:30 PM: INFO : ******************** Completed Test_002_Login_DataDriven testcase ***********************
+10/08/2022 02:59:20 PM: INFO : ====== WebDriver manager ======
+10/08/2022 02:59:20 PM: INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+10/08/2022 02:59:21 PM: INFO : Driver [C:\Users\Gokul A\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+10/08/2022 02:59:23 PM: INFO : ******************** Test_001_Login ***********************
+10/08/2022 02:59:23 PM: INFO : ******************** Verifying the Homepage title ***********************
+10/08/2022 02:59:25 PM: ERROR : ******************** Homepage title test is failed ***********************
+10/08/2022 02:59:26 PM: INFO : ====== WebDriver manager ======
+10/08/2022 02:59:27 PM: INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+10/08/2022 02:59:28 PM: INFO : Driver [C:\Users\Gokul A\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+10/08/2022 02:59:29 PM: INFO : ******************** Verifying the login test ***********************
+10/08/2022 02:59:33 PM: INFO : ******************** Login test is passed ***********************
+10/08/2022 02:59:33 PM: INFO : ******************** Completed Test_001_Login testcase ***********************
+10/08/2022 02:59:33 PM: INFO : ====== WebDriver manager ======
+10/08/2022 02:59:34 PM: INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+10/08/2022 02:59:34 PM: INFO : Driver [C:\Users\Gokul A\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+10/08/2022 02:59:36 PM: INFO : ******************** Test_002_Login_DataDriven ***********************
+10/08/2022 02:59:36 PM: INFO : ******************** Verifying the login Data Driven test ***********************
+10/08/2022 02:59:39 PM: INFO : ******************** Login Passed - Correct user credentials ***********************
+10/08/2022 02:59:41 PM: INFO : ******************** Login Failed - Incorrect user credentials ***********************
+10/08/2022 02:59:41 PM: INFO : ******************** Login Data Driven test is passed ***********************
+10/08/2022 02:59:58 PM: INFO : ******************** Completed Test_002_Login_DataDriven testcase ***********************
+10/08/2022 02:59:58 PM: INFO : ====== WebDriver manager ======
+10/08/2022 02:59:58 PM: INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+10/08/2022 02:59:58 PM: INFO : Driver [C:\Users\Gokul A\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+10/08/2022 02:59:59 PM: INFO : ******************** Test_003_BookAppointment ***********************
+10/08/2022 02:59:59 PM: INFO : ******************** Booking an appointment ***********************
+10/08/2022 03:00:09 PM: INFO : ******************** Appointment booked successfully ***********************
+10/08/2022 03:13:51 PM: INFO : ====== WebDriver manager ======
+10/08/2022 03:13:52 PM: INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+10/08/2022 03:13:52 PM: INFO : Driver [C:\Users\Gokul A\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+10/08/2022 03:13:54 PM: INFO : ******************** Test_001_Login ***********************
+10/08/2022 03:13:54 PM: INFO : ******************** Verifying the Homepage title ***********************
+10/08/2022 03:13:56 PM: ERROR : ******************** Homepage title test is failed ***********************
+10/08/2022 03:14:13 PM: INFO : ====== WebDriver manager ======
+10/08/2022 03:14:13 PM: INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+10/08/2022 03:14:13 PM: INFO : Driver [C:\Users\Gokul A\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+10/08/2022 03:14:15 PM: INFO : ******************** Verifying the login test ***********************
+10/08/2022 03:14:18 PM: INFO : ******************** Login test is passed ***********************
+10/08/2022 03:14:18 PM: INFO : ******************** Completed Test_001_Login testcase ***********************
+10/08/2022 03:14:18 PM: INFO : ====== WebDriver manager ======
+10/08/2022 03:14:19 PM: INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+10/08/2022 03:14:19 PM: INFO : Driver [C:\Users\Gokul A\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+10/08/2022 03:14:20 PM: INFO : ******************** Test_002_Login_DataDriven ***********************
+10/08/2022 03:14:20 PM: INFO : ******************** Verifying the login Data Driven test ***********************
+10/08/2022 03:14:23 PM: INFO : ******************** Login Passed - Correct user credentials ***********************
+10/08/2022 03:14:25 PM: INFO : ******************** Login Failed - Incorrect user credentials ***********************
+10/08/2022 03:14:25 PM: INFO : ******************** Login Data Driven test is passed ***********************
+10/08/2022 03:14:25 PM: INFO : ******************** Completed Test_002_Login_DataDriven testcase ***********************
+10/08/2022 03:14:25 PM: INFO : ====== WebDriver manager ======
+10/08/2022 03:14:26 PM: INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+10/08/2022 03:14:26 PM: INFO : Driver [C:\Users\Gokul A\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+10/08/2022 03:14:27 PM: INFO : ******************** Test_003_BookAppointment ***********************
+10/08/2022 03:14:27 PM: INFO : ******************** Booking an appointment ***********************
+10/08/2022 03:14:37 PM: INFO : ******************** Appointment booked successfully ***********************
+10/08/2022 03:15:05 PM: INFO : ====== WebDriver manager ======
+10/08/2022 03:15:06 PM: INFO : Get LATEST geckodriver version for 105.0 firefox
+10/08/2022 03:15:06 PM: INFO : Driver [C:\Users\Gokul A\.wdm\drivers\geckodriver\win64\0.31\geckodriver.exe] found in cache
+10/08/2022 03:15:12 PM: INFO : ******************** Test_001_Login ***********************
+10/08/2022 03:15:12 PM: INFO : ******************** Verifying the Homepage title ***********************
+10/08/2022 03:15:15 PM: ERROR : ******************** Homepage title test is failed ***********************
+10/08/2022 03:15:16 PM: INFO : ====== WebDriver manager ======
+10/08/2022 03:15:16 PM: INFO : Get LATEST geckodriver version for 105.0 firefox
+10/08/2022 03:15:17 PM: INFO : Driver [C:\Users\Gokul A\.wdm\drivers\geckodriver\win64\0.31\geckodriver.exe] found in cache
+10/08/2022 03:15:22 PM: INFO : ******************** Verifying the login test ***********************
+10/08/2022 03:15:25 PM: INFO : ******************** Login test is passed ***********************
+10/08/2022 03:15:26 PM: INFO : ******************** Completed Test_001_Login testcase ***********************
+10/08/2022 03:15:26 PM: INFO : ====== WebDriver manager ======
+10/08/2022 03:15:26 PM: INFO : Get LATEST geckodriver version for 105.0 firefox
+10/08/2022 03:15:27 PM: INFO : Driver [C:\Users\Gokul A\.wdm\drivers\geckodriver\win64\0.31\geckodriver.exe] found in cache
+10/08/2022 03:15:32 PM: INFO : ******************** Test_002_Login_DataDriven ***********************
+10/08/2022 03:15:32 PM: INFO : ******************** Verifying the login Data Driven test ***********************
+10/08/2022 03:15:35 PM: INFO : ******************** Login Passed - Correct user credentials ***********************
+10/08/2022 03:15:37 PM: INFO : ******************** Login Failed - Incorrect user credentials ***********************
+10/08/2022 03:15:37 PM: INFO : ******************** Login Data Driven test is passed ***********************
+10/08/2022 03:15:38 PM: INFO : ******************** Completed Test_002_Login_DataDriven testcase ***********************
+10/08/2022 03:15:38 PM: INFO : ====== WebDriver manager ======
+10/08/2022 03:15:38 PM: INFO : Get LATEST geckodriver version for 105.0 firefox
+10/08/2022 03:15:39 PM: INFO : Driver [C:\Users\Gokul A\.wdm\drivers\geckodriver\win64\0.31\geckodriver.exe] found in cache
+10/08/2022 03:15:44 PM: INFO : ******************** Test_003_BookAppointment ***********************
+10/08/2022 03:15:44 PM: INFO : ******************** Booking an appointment ***********************
+10/08/2022 03:15:55 PM: INFO : ******************** Appointment booked successfully ***********************
+10/08/2022 03:24:51 PM: INFO : xdist worker is: gw1
+10/08/2022 03:24:51 PM: INFO : ====== WebDriver manager ======
+10/08/2022 03:24:51 PM: INFO : ====== WebDriver manager ======
+10/08/2022 03:24:52 PM: INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+10/08/2022 03:24:52 PM: INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+10/08/2022 03:24:52 PM: INFO : About to download new driver from https://chromedriver.storage.googleapis.com/106.0.5249.61/chromedriver_win32.zip
+10/08/2022 03:24:52 PM: INFO : About to download new driver from https://chromedriver.storage.googleapis.com/106.0.5249.61/chromedriver_win32.zip
+10/08/2022 03:24:56 PM: INFO : Driver has been saved in cache [C:\Users\Gokul A\.wdm\gw0\drivers\chromedriver\win32\106.0.5249]
+10/08/2022 03:24:56 PM: INFO : Driver has been saved in cache [C:\Users\Gokul A\.wdm\gw1\drivers\chromedriver\win32\106.0.5249]
+10/08/2022 03:24:59 PM: INFO : ******************** Verifying the login test ***********************
+10/08/2022 03:24:59 PM: INFO : ******************** Test_001_Login ***********************
+10/08/2022 03:24:59 PM: INFO : ******************** Verifying the Homepage title ***********************
+10/08/2022 03:25:02 PM: ERROR : ******************** Homepage title test is failed ***********************
+10/08/2022 03:25:02 PM: INFO : xdist worker is: gw0
+10/08/2022 03:25:02 PM: INFO : ====== WebDriver manager ======
+10/08/2022 03:25:03 PM: INFO : ******************** Login test is passed ***********************
+10/08/2022 03:25:03 PM: INFO : ******************** Completed Test_001_Login testcase ***********************
+10/08/2022 03:25:03 PM: INFO : xdist worker is: gw1
+10/08/2022 03:25:03 PM: INFO : ====== WebDriver manager ======
+10/08/2022 03:25:03 PM: INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+10/08/2022 03:25:03 PM: INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+10/08/2022 03:25:04 PM: INFO : Driver [C:\Users\Gokul A\.wdm\gw0\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+10/08/2022 03:25:04 PM: INFO : Driver [C:\Users\Gokul A\.wdm\gw1\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+10/08/2022 03:25:05 PM: INFO : ******************** Test_003_BookAppointment ***********************
+10/08/2022 03:25:05 PM: INFO : ******************** Booking an appointment ***********************
+10/08/2022 03:25:05 PM: INFO : ******************** Test_002_Login_DataDriven ***********************
+10/08/2022 03:25:05 PM: INFO : ******************** Verifying the login Data Driven test ***********************
+10/08/2022 03:25:09 PM: INFO : ******************** Login Passed - Correct user credentials ***********************
+10/08/2022 03:25:10 PM: INFO : ******************** Login Failed - Incorrect user credentials ***********************
+10/08/2022 03:25:10 PM: INFO : ******************** Login Data Driven test is passed ***********************
+10/08/2022 03:25:15 PM: INFO : ******************** Appointment booked successfully ***********************
+10/08/2022 03:25:27 PM: INFO : ******************** Completed Test_002_Login_DataDriven testcase ***********************
+10/08/2022 03:28:34 PM: INFO : ====== WebDriver manager ======
+10/08/2022 03:28:34 PM: INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+10/08/2022 03:28:35 PM: INFO : Driver [C:\Users\Gokul A\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+10/08/2022 03:28:36 PM: INFO : ******************** Test_001_Login ***********************
+10/08/2022 03:28:36 PM: INFO : ******************** Verifying the Homepage title ***********************
+10/08/2022 03:28:39 PM: ERROR : ******************** Homepage title test is failed ***********************
+10/08/2022 03:28:55 PM: INFO : ====== WebDriver manager ======
+10/08/2022 03:28:56 PM: INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+10/08/2022 03:28:56 PM: INFO : Driver [C:\Users\Gokul A\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+10/08/2022 03:28:57 PM: INFO : ******************** Verifying the login test ***********************
+10/08/2022 03:29:00 PM: INFO : ******************** Login test is passed ***********************
+10/08/2022 03:29:00 PM: INFO : ******************** Completed Test_001_Login testcase ***********************
+10/08/2022 03:29:00 PM: INFO : ====== WebDriver manager ======
+10/08/2022 03:29:01 PM: INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+10/08/2022 03:29:01 PM: INFO : Driver [C:\Users\Gokul A\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+10/08/2022 03:29:02 PM: INFO : ******************** Test_002_Login_DataDriven ***********************
+10/08/2022 03:29:02 PM: INFO : ******************** Verifying the login Data Driven test ***********************
+10/08/2022 03:29:05 PM: INFO : ******************** Login Passed - Correct user credentials ***********************
+10/08/2022 03:29:07 PM: INFO : ******************** Login Failed - Incorrect user credentials ***********************
+10/08/2022 03:29:07 PM: INFO : ******************** Login Data Driven test is passed ***********************
+10/08/2022 03:29:23 PM: INFO : ******************** Completed Test_002_Login_DataDriven testcase ***********************
+10/08/2022 03:29:23 PM: INFO : ====== WebDriver manager ======
+10/08/2022 03:29:23 PM: INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+10/08/2022 03:29:24 PM: INFO : Driver [C:\Users\Gokul A\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+10/08/2022 03:29:25 PM: INFO : ******************** Test_003_BookAppointment ***********************
+10/08/2022 03:29:25 PM: INFO : ******************** Booking an appointment ***********************
+10/08/2022 03:29:34 PM: INFO : ******************** Appointment booked successfully ***********************
+10/08/2022 03:29:37 PM: INFO : ====== WebDriver manager ======
+10/08/2022 03:29:38 PM: INFO : Get LATEST geckodriver version for 105.0 firefox
+10/08/2022 03:29:38 PM: INFO : Driver [C:\Users\Gokul A\.wdm\drivers\geckodriver\win64\0.31\geckodriver.exe] found in cache
+10/08/2022 03:29:44 PM: INFO : ******************** Test_001_Login ***********************
+10/08/2022 03:29:44 PM: INFO : ******************** Verifying the Homepage title ***********************
+10/08/2022 03:29:47 PM: ERROR : ******************** Homepage title test is failed ***********************
+10/08/2022 03:29:48 PM: INFO : ====== WebDriver manager ======
+10/08/2022 03:29:48 PM: INFO : Get LATEST geckodriver version for 105.0 firefox
+10/08/2022 03:29:49 PM: INFO : Driver [C:\Users\Gokul A\.wdm\drivers\geckodriver\win64\0.31\geckodriver.exe] found in cache
+10/08/2022 03:29:54 PM: INFO : ******************** Verifying the login test ***********************
+10/08/2022 03:29:58 PM: INFO : ******************** Login test is passed ***********************
+10/08/2022 03:29:58 PM: INFO : ******************** Completed Test_001_Login testcase ***********************
+10/08/2022 03:29:58 PM: INFO : ====== WebDriver manager ======
+10/08/2022 03:29:59 PM: INFO : Get LATEST geckodriver version for 105.0 firefox
+10/08/2022 03:30:00 PM: INFO : Driver [C:\Users\Gokul A\.wdm\drivers\geckodriver\win64\0.31\geckodriver.exe] found in cache
+10/08/2022 03:30:05 PM: INFO : ******************** Test_002_Login_DataDriven ***********************
+10/08/2022 03:30:05 PM: INFO : ******************** Verifying the login Data Driven test ***********************
+10/08/2022 03:30:08 PM: INFO : ******************** Login Passed - Correct user credentials ***********************
+10/08/2022 03:30:09 PM: INFO : ******************** Login Failed - Incorrect user credentials ***********************
+10/08/2022 03:30:09 PM: INFO : ******************** Login Data Driven test is passed ***********************
+10/08/2022 03:30:10 PM: INFO : ******************** Completed Test_002_Login_DataDriven testcase ***********************
+10/08/2022 03:30:10 PM: INFO : ====== WebDriver manager ======
+10/08/2022 03:30:10 PM: INFO : Get LATEST geckodriver version for 105.0 firefox
+10/08/2022 03:30:11 PM: INFO : Driver [C:\Users\Gokul A\.wdm\drivers\geckodriver\win64\0.31\geckodriver.exe] found in cache
+10/08/2022 03:30:16 PM: INFO : ******************** Test_003_BookAppointment ***********************
+10/08/2022 03:30:16 PM: INFO : ******************** Booking an appointment ***********************
+10/08/2022 03:30:25 PM: INFO : ******************** Appointment booked successfully ***********************
+10/08/2022 03:30:49 PM: INFO : ====== WebDriver manager ======
+10/08/2022 03:30:49 PM: INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+10/08/2022 03:30:49 PM: INFO : Driver [C:\Users\Gokul A\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+10/08/2022 03:30:51 PM: INFO : ******************** Test_001_Login ***********************
+10/08/2022 03:30:51 PM: INFO : ******************** Verifying the Homepage title ***********************
+10/08/2022 03:30:53 PM: ERROR : ******************** Homepage title test is failed ***********************
+10/08/2022 03:31:10 PM: INFO : ====== WebDriver manager ======
+10/08/2022 03:31:10 PM: INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+10/08/2022 03:31:10 PM: INFO : Driver [C:\Users\Gokul A\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+10/08/2022 03:31:11 PM: INFO : ******************** Verifying the login test ***********************
+10/08/2022 03:31:15 PM: INFO : ******************** Login test is passed ***********************
+10/08/2022 03:31:15 PM: INFO : ******************** Completed Test_001_Login testcase ***********************
+10/08/2022 03:31:15 PM: INFO : ====== WebDriver manager ======
+10/08/2022 03:31:15 PM: INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+10/08/2022 03:31:16 PM: INFO : Driver [C:\Users\Gokul A\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+10/08/2022 03:31:17 PM: INFO : ******************** Test_002_Login_DataDriven ***********************
+10/08/2022 03:31:17 PM: INFO : ******************** Verifying the login Data Driven test ***********************
+10/08/2022 03:31:20 PM: INFO : ******************** Login Passed - Correct user credentials ***********************
+10/08/2022 03:31:21 PM: INFO : ******************** Login Failed - Incorrect user credentials ***********************
+10/08/2022 03:31:21 PM: INFO : ******************** Login Data Driven test is passed ***********************
+10/08/2022 03:31:21 PM: INFO : ******************** Completed Test_002_Login_DataDriven testcase ***********************
+10/08/2022 03:31:21 PM: INFO : ====== WebDriver manager ======
+10/08/2022 03:31:22 PM: INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+10/08/2022 03:31:22 PM: INFO : Driver [C:\Users\Gokul A\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+10/08/2022 03:31:23 PM: INFO : ******************** Test_003_BookAppointment ***********************
+10/08/2022 03:31:23 PM: INFO : ******************** Booking an appointment ***********************
+10/08/2022 03:31:32 PM: INFO : ******************** Appointment booked successfully ***********************
+10/08/2022 03:31:50 PM: INFO : ====== WebDriver manager ======
+10/08/2022 03:31:51 PM: INFO : Get LATEST geckodriver version for 105.0 firefox
+10/08/2022 03:31:52 PM: INFO : Driver [C:\Users\Gokul A\.wdm\drivers\geckodriver\win64\0.31\geckodriver.exe] found in cache
+10/08/2022 03:31:57 PM: INFO : ******************** Test_001_Login ***********************
+10/08/2022 03:31:57 PM: INFO : ******************** Verifying the Homepage title ***********************
+10/08/2022 03:32:00 PM: ERROR : ******************** Homepage title test is failed ***********************
+10/08/2022 03:32:01 PM: INFO : ====== WebDriver manager ======
+10/08/2022 03:32:02 PM: INFO : Get LATEST geckodriver version for 105.0 firefox
+10/08/2022 03:32:02 PM: INFO : Driver [C:\Users\Gokul A\.wdm\drivers\geckodriver\win64\0.31\geckodriver.exe] found in cache
+10/08/2022 03:32:07 PM: INFO : ******************** Verifying the login test ***********************
+10/08/2022 03:32:11 PM: INFO : ******************** Login test is passed ***********************
+10/08/2022 03:32:11 PM: INFO : ******************** Completed Test_001_Login testcase ***********************
+10/08/2022 03:32:11 PM: INFO : ====== WebDriver manager ======
+10/08/2022 03:32:12 PM: INFO : Get LATEST geckodriver version for 105.0 firefox
+10/08/2022 03:32:13 PM: INFO : Driver [C:\Users\Gokul A\.wdm\drivers\geckodriver\win64\0.31\geckodriver.exe] found in cache
+10/08/2022 03:32:18 PM: INFO : ******************** Test_002_Login_DataDriven ***********************
+10/08/2022 03:32:18 PM: INFO : ******************** Verifying the login Data Driven test ***********************
+10/08/2022 03:32:21 PM: INFO : ******************** Login Passed - Correct user credentials ***********************
+10/08/2022 03:32:23 PM: INFO : ******************** Login Failed - Incorrect user credentials ***********************
+10/08/2022 03:32:23 PM: INFO : ******************** Login Data Driven test is passed ***********************
+10/08/2022 03:32:24 PM: INFO : ******************** Completed Test_002_Login_DataDriven testcase ***********************
+10/08/2022 03:32:24 PM: INFO : ====== WebDriver manager ======
+10/08/2022 03:32:24 PM: INFO : Get LATEST geckodriver version for 105.0 firefox
+10/08/2022 03:32:25 PM: INFO : Driver [C:\Users\Gokul A\.wdm\drivers\geckodriver\win64\0.31\geckodriver.exe] found in cache
+10/08/2022 03:32:30 PM: INFO : ******************** Test_003_BookAppointment ***********************
+10/08/2022 03:32:30 PM: INFO : ******************** Booking an appointment ***********************
+10/08/2022 03:32:40 PM: INFO : ******************** Appointment booked successfully ***********************
